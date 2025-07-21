@@ -33,8 +33,7 @@
       "highlights": ["Learning-based Healthcare Analytics"]
     }
   ],
-  /*
-  "volunteer": [
+  "_volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -46,7 +45,6 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  */
   "training": [
     {
       "institution": "Michigan Institute for Data & AI in Society, University of Michigan",
@@ -82,8 +80,7 @@
       "courses": [""]
     },
   ],
-  /*
-  "awards": [
+  "_awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -92,7 +89,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -136,7 +133,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -159,7 +156,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "_skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -174,7 +171,6 @@
       ]
     }
   ],
-  */
   "languages": [
     {
       "language": "Persian",
@@ -187,8 +183,7 @@
       "icon": ""
     }
   ],
-  /*
-  "interests": [
+  "_interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -202,7 +197,6 @@
       ]
     }
   ],
-  */
   "references": [
     {
       "name": "Professor Mariel Lavieri",
@@ -215,8 +209,7 @@
       "reference": ""
     }
   ]
-  /*
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
@@ -226,5 +219,4 @@
       "url": "https://example.com"
     }
   ]
-  */
 }
