@@ -1423,3 +1423,9 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// ----------------------------------------
+// Override lowercase transform on about headings
+.page-about h2 a {
+  text-transform: none !important;
+}
