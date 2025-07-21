@@ -17,16 +17,6 @@
       value: ahmoosavi
 
 # --------------------
-- title: Experience
-  type: time_table
-  contents:
-    - title: Michigan Data Science Fellow
-      institution: Michigan Institute for Data & AI in Society, University of Michigan
-      year: Nov 2024 – Present
-      description:
-        - Research on learning-based healthcare analytics
-
-# --------------------
 - title: Education & Training
   type: time_table
   contents:
