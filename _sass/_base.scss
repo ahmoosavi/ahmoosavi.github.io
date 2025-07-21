@@ -1429,17 +1429,3 @@ figure.cover {
 .page-about h2 a {
   text-transform: none !important;
 }
-
-/* 1) hide any residual preview element */
-.preview {
-  display: none !important;
-}
-
-/* 2) force the list wrapper to a single column */
-.bibliography-list,
-.publication-list,
-ol.bibliography,
-ul.bibliography {
-  /* replace grid-template-columns from “1fr auto” to just “1fr” */
-  grid-template-columns: 1fr !important;
-}
