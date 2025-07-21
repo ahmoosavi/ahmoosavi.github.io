@@ -13,14 +13,7 @@
       "city": "",
       "countryCode": "US",
       "region": "Michigan"
-    },
-    "_profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "_work": [
     {
@@ -45,17 +38,39 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
+  "training": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Michinga Institute for Data & AI in Society, University of Michigan",
+      "location": "USA",
+      "url": "",
+      "area": "Learning-based healthcare analytics",
+      "studyType": "Michigan Data Science Fellow",
+      "startDate": "2024-11",
+      "endDate": "Present",
+      "score": "",
+      "courses": ["Learning-based healthcare analytics"]
+    },
+    {
+      "institution": "Ottawa Heart Institute, University of Ottawa",
+      "location": "Canada",
+      "url": "",
+      "area": "Operating room scheduling",
+      "studyType": "Postdoctoral Fellow",
+      "startDate": "2024-1",
+      "endDate": "2024-10",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Telfer School of Management, University of Ottawa",
+      "location": "Canada",
+      "url": "",
+      "area": "Healthcare planning and scheduling",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-9",
+      "endDate": "2023-8",
+      "score": "",
+      "courses": [""]
     }
   ],
   "_awards": [
@@ -177,14 +192,14 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Mariel Lavieri",
+      "icon": "",
+      "reference": "University of Michigan"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Amy Cohn",
+      "icon": "",
+      "reference": "University of Michigan"
     }
   ],
   "_projects": [
