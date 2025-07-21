@@ -7,6 +7,26 @@ nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Below is a brief overview of my teaching experience. For each course, you’ll find the title, my role, years, enrollment, and (where available) the average evaluation score.
 
-Organize your courses by years, topics, or universities, however you like!
+---
+
+### Predictive Models in Healthcare
+**Role:** Instructor  
+**Institute:** University of Michigan
+**Year:** 2025
+**Enrolled Students:** ≈100
+
+
+### Applications of Statistical Methods in Business
+**Role:** Instructor  
+**Institute:** University of Ottawa
+**Year:** 2024, 2022
+**Enrolled Students:** ≈100 
+**Average Evaluation:** 4.6 / 5  
+
+
+### Applications of Statistical Methods in Business
+**Role:** Teaching Assistant  
+**Year:** 2019 – 2023
+**Enrolled Students:** ≈100  
