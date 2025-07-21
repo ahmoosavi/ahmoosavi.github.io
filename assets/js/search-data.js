@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "“Research is what I&#39;m doing when I don&#39;t know what I&#39;m doing.” -- Dr. Braun",
+          description: "Research is what I&#39;m doing when I don&#39;t know what I&#39;m doing. -- Dr. Braun",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
