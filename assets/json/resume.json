@@ -1,5 +1,5 @@
 {
-  "_basics": {
+  "basics": {
     "name": "Albert Einstein",
     "label": "Scientist",
     "image": "",
@@ -45,7 +45,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "_education": [
+  "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
@@ -175,7 +175,7 @@
       ]
     }
   ],
-  "_references": [
+  "references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
