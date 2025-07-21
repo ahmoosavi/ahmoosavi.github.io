@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work on dynamic distributed ambulatory care scheduling was accepted for publication in *Production & Operations Management*.
+Our work on dynamic distributed ambulatory care scheduling was accepted for publication in *Production & Operations Management*.
