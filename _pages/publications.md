@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: “Research is what I'm doing when I don't know what I'm doing.” -- Dr. Braun
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
