@@ -404,12 +404,10 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-on-center-wise-disparities-in-kidney-post-transplant-outcomes-was-accepted-for-oral-presentation-at-the-2025-world-transplant-congress",
           title: 'Our work on center-wise disparities in kidney post-transplant outcomes was accepted for oral...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-join-my-talk-on-learning-based-healthcare-scheduling-at-the-2025-annual-informs-meeting",
+          title: 'Join my talk on learning-based healthcare scheduling at the 2025 Annual INFORMS Meeting....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
