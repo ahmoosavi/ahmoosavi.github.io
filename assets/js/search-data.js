@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-work-on-dynamic-distributed-ambulatory-care-scheduling-was-accepted-for-publication-in-production-amp-amp-operations-management",
-          title: 'My work on dynamic distributed ambulatory care scheduling was accepted for publication in...',
+            },},{id: "news-our-work-on-dynamic-distributed-ambulatory-care-scheduling-was-accepted-for-publication-in-production-amp-amp-operations-management",
+          title: 'Our work on dynamic distributed ambulatory care scheduling was accepted for publication in...',
           description: "",
           section: "News",},{id: "news-our-work-on-center-wise-disparities-in-kidney-post-transplant-outcomes-was-accepted-for-oral-presentation-at-the-2025-world-transplant-congress",
           title: 'Our work on center-wise disparities in kidney post-transplant outcomes was accepted for oral...',
