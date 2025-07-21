@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: “The more that you read, the more things you will know, the more that you learn, the more places you’ll go.” -- Dr. Seuss
 nav: true
 nav_order: 6
 ---
