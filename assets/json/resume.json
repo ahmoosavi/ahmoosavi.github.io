@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Amirhossein Moosavi",
+    "name": "Albert Einstein",
     "label": "Scientist",
     "image": "",
-    "email": "moosavia_at_umich_dot_edu",
-    "phone": "",
-    "url": "https://ahmoosavi.github.io",
-    "summary": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Michigan"
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "ahmoosavi",
-        "url": "https://www.linkedin.com/in/ahmoosavi/"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Michigan Institute for Data & AI in Society, University of Michigan",
-      "position": "Michigan Data Science Fellow",
-      "url": "https://midas.umich.edu/directory/amirhossein-moosavi/",
-      "startDate": "2024-11",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": ["Learning-based Healthcare Analytics"]
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
-  "_volunteer": [
+  "volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -45,42 +45,20 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "training": [
+  "education": [
     {
-      "institution": "Michigan Institute for Data & AI in Society, University of Michigan",
-      "location": "USA",
-      "url": "",
-      "area": "Learning-based Healthcare Analytics",
-      "studyType": "Michigan Data Science Fellow",
-      "startDate": "2024-11",
-      "endDate": "Present",
-      "score": "",
-      "courses": [""]
-    },
-    {
-      "institution": "Ottawa Heart Institute, University of Ottawa",
-      "location": "Canada",
-      "url": "",
-      "area": "Operating Room Planning and Scheduling",
-      "studyType": "Postdoctoral Fellow",
-      "startDate": "2024-1",
-      "endDate": "2024-10",
-      "score": "",
-      "courses": [""]
-    },
-    {
-      "institution": "Telfer School of Management, University of Ottawa",
-      "location": "Canada",
-      "url": "",
-      "area": "Ambulatory Care Planning and Scheduling",
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "2019-9",
-      "endDate": "2023-08",
-      "score": "",
-      "courses": [""]
-    },
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
   ],
-  "_awards": [
+  "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -89,7 +67,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "_certificates": [
+  "certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -133,7 +111,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "_publications": [
+  "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -156,7 +134,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "_skills": [
+  "skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -173,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "Persian",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -183,7 +161,7 @@
       "icon": ""
     }
   ],
-  "_interests": [
+  "interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -199,17 +177,17 @@
   ],
   "references": [
     {
-      "name": "Professor Mariel Lavieri",
-      "icon": "",
-      "reference": ""
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor Amy Cohn",
-      "icon": "",
-      "reference": ""
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
-  ]
-  "_projects": [
+  ],
+  "projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
