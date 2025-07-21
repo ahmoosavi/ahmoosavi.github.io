@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "“The more that you read, the more things you will know, the more that you learn, the more places you’ll go.” -- Dr. Seuss",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of your cool projects.",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "“The more that you read, the more things you will know, the more that you learn, the more places you’ll go.” -- Dr. Seuss",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "nav-submenus",
           title: "submenus",
