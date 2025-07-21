@@ -31,5 +31,6 @@ Below is a brief overview of my teaching experience. For each course, you’ll f
 
 ### Applications of Statistical Methods in Business
 **Role:** Teaching Assistant  
+**Institute:** University of Ottawa  
 **Year:** 2019 – 2023  
 **Enrolled Students:** ≈100  
