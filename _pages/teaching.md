@@ -25,7 +25,7 @@ Below is a brief overview of my teaching experience. For each course, you’ll f
 **Institute:** University of Ottawa  
 **Year:** 2024, 2022  
 **Enrolled Students:** ≈100  
-**Average Evaluation:** 4.6 / 5  
+**Average Evaluation:** 4.7 / 5  
 <br /><br />
 
 
