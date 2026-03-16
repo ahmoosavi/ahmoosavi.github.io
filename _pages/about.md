@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Michigan Data Science Fellow jointly appointed at the Michigan Institute for Data & AI in Society (MIDAS) and the Department of Industrial & Operations Engineering (IOE), University of Michigan, Ann Arbor. My research blends *advanced analytics* and *machine learning* to improve operational and clinical decision-making, with current projects on maximizing the use of lower-quality donor kidneys and optimizing operating-room schedules.  ￼ ￼
+I am a Michigan Data Science Fellow jointly appointed at the Michigan Institute for Data & AI in Society (MIDAS) and the Department of Industrial & Operations Engineering (IOE), University of Michigan, Ann Arbor. My research blends advanced analytics and machine learning to support intelligent, data-driven decision-making, with current projects focused on integrated routing and inventory management, and maximizing the use of lower-quality donor kidneys. ￼
 
 Previously, I earned a PhD in Management Science (2023) at the University of Ottawa, where my dissertation focused on learning-based planning and scheduling in healthcare. My work has been recognized with two Ontario Graduate Scholarships (2020 & 2021).  ￼
 
