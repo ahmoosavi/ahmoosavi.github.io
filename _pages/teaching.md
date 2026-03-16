@@ -12,7 +12,7 @@ Below is a brief overview of my teaching experience. For each course, you’ll f
 ---
 <br /><br />
 
-### Predictive Models in Healthcare
+### Predictive Models in Operations Management
 **Role:** Instructor  
 **Institute:** University of Michigan  
 **Year:** 2025  
